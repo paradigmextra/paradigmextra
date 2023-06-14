@@ -1,7 +1,7 @@
-<h1>Hey, VICTOR MLONGOTI</h1>
+<h1>Hey,AM VICTOR MLONGOTI</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.dancodes.online/?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
+
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats.dancodes.online/?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
   <img alt="DanCodes Readme Stats" src="https://github-stats.dancodes.online/?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
 </picture>
